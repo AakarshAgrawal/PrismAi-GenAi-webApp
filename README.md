@@ -20,4 +20,4 @@ This project demonstrates real-time natural language interactions, modular React
 - **Version Control:** Git, GitHub  
 
 ---
-![PrismAi-preview]([image-path-or-url](https://github.com/AakarshAgrawal/PrismAi-GenAi-webApp/blob/de00ee7113cf9c2147f15b578b844952bdce9629/Screenshot%202025-08-25%20152011.png))
+![PrismAi-preview](https://github.com/AakarshAgrawal/PrismAi-GenAi-webApp/blob/88e34130500210ef776beada74d54926c620c32b/Screenshot%202025-08-25%20152011.png)
